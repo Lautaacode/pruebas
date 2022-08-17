@@ -1,0 +1,15 @@
+.fondo{
+  max-width: 600px;
+  height: 600px;
+  background-color: #ccfcfc;
+  padding: 1em 0 0 0;
+
+}
+.caja-blanca{
+  display: flex;
+  flex-direction: row;
+  width: 580px;
+  height: 150px;
+  background-color: #fff;
+  margin: 1em auto 0;
+}
