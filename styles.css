@@ -1,4 +1,6 @@
 .fondo{
+  justify-content:center;
+  align-items: center;
   max-width: 600px;
   height: 600px;
   background-color: #ccfcfc;
